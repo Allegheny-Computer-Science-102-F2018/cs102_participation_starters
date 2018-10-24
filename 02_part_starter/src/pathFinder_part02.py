@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 # Algorithm Code referenced for modification: https://www.python.org/doc/essays/graphs/
 
 
