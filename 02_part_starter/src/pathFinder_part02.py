@@ -1,7 +1,6 @@
 # Algorithm Code referenced for modification: https://www.python.org/doc/essays/graphs/
-##### 24Oct2018
 
-DATE = "18 Sept 2018"
+DATE = "24 Oct 2018"
 VERSION = "i"
 AUTHOR = "NAME"
 
