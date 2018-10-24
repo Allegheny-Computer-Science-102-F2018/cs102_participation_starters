@@ -6,6 +6,30 @@ Designed for use with [GitHub Classroom](https://classroom.github.com/), this re
 ## Introduction
 This repository contains all participation activities for the course. See participation sheets (if available) for details.
 
+## Updates
+
+When the course instructor provides the new material for the in-class activity,
+ you can type this command in the main directory for this repository:
+
+```
+git remote add download git@github.com:Allegheny-Computer-Science-102-F2018/cs102_participation_starters
+```
+
+You should only need to type this command once; typing the command additional
+times may yield an error message but will not negatively influence the state of
+your repository. Now, you are ready to download the updates provided by the
+course instructor by typing:
+
+```
+git pull download master
+```
+
+This second command can be run whenever the course instructor needs to provide
+you with new source code for this assignment. However, please note that, if you
+have edited the files that the course instructor updated, running the previous
+command may lead to Git merge conflicts. If this happens, you may need to
+manually resolve them with the help of the instructor or a teaching assistant.
+
 
 
 ## Learning
